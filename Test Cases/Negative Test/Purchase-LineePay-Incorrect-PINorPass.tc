@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Purchase-LineePay-Incorrect-PINorPass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b27f8236-6847-49d2-800c-a99f489266c6</testCaseGuid>
+</TestCaseEntity>

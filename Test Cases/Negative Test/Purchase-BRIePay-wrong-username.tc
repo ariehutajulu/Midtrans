@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Purchase-BRIePay-wrong-username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c1947c8c-3c8d-4b1e-b67e-902492e502c5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Purchase-CreditCard-Invalid CN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8be65152-846c-4001-9403-9fb1145f5ff2</testCaseGuid>
+</TestCaseEntity>
